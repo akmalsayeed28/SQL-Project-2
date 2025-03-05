@@ -1,0 +1,18 @@
+Query Questions for music store dataset
+
+1.who is the senior most employee based on job level
+2.which countries have the most invoices
+3.what are top 3 values of invoice
+4.write a query that returns one city with the highest sum of invoice totals. Return 
+  both the city name and sum of all invoice totals
+5.Who is the best customer? write a query that returns the person 
+  who has spent the most money.
+6.Write a query to return email first name, last name and genre of all rock music listeners.
+  Return your list ordered alphabetically by email in ascending.
+7.write a query to return the artist name and total track count having rock genre.
+8.Return all the track names that have a song length longer than the average son length.
+  Return the name and the milliseconds for each track. order by the song length in descending.
+9.Find how much amount spent by each customer on artists. Write a query to return
+  customer name, artist name and total spent.
+10.We want to find out the most popular genre for each country.
+   We will determine the most popular genre the genre with the highest amount of purchase.
